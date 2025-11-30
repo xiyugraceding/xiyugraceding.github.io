@@ -6,8 +6,6 @@ redirect_from:
   - /about.html
 ---
 
-{% include base_path %}
-
 I am a PhD candidate in Biomedical Informatics and Data Science at Johns Hopkins University, with extensive experience developing and applying Bayesian hierarchical modeling, Natural Language Processing, and multi-modal modeling techniques to problems in the biomedical sciences.
 
 ## Research Interests
