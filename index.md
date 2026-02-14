@@ -12,17 +12,21 @@ I am also a co-founder of 未医智源, a Shanghai-based startup partnering with
 
 
 ## Research Themes
+
 ### Bayesian Hierarchical Transfer Learning
-Hierarchical transfer learning frameworks that borrow strength from large datasets to improve inference in small or underrepresented populations.
- - Developed global–local shrinkage priors for high-dimensional sparse settings and efficient rejection-sampling algorithms to enable scalable posterior inference in federated and clinical and genetic applications.
+- Hierarchical transfer learning frameworks that borrow strength from large datasets to improve inference in small or underrepresented populations.
+- Developed global–local shrinkage priors for high-dimensional sparse settings and efficient rejection-sampling algorithms to enable scalable posterior inference in federated and clinical/genetic applications.
+
 ### Real-World Evidence & Causal Inference
 - Conducting large-scale federated causal analyses across 10+ international healthcare databases (>5M patients) to evaluate sex difference in the effectiveness and safety of second-line T2D agents.
 - Quantify the impact of social determinants of health on diabetes management.
+
 ### Natural Language Processing in Healthcare
-Specialty referral triage, phenotype extraction, sentiment classification, and parameter-efficient fine-tuning in resource-constrained healthcare settings.
+- Specialty referral triage, phenotype extraction, sentiment classification, and parameter-efficient fine-tuning in resource-constrained healthcare settings.
+
 ### Multimodal Models
 - Developing cross-attention architectures to integrate imaging, biomarkers, and clinical text for Alzheimer’s disease diagnosis.
-- Emphasis on low-compute, high-efficiency modeling strategies that maintain performance under limited data and infrastructure constraints.
+- Emphasize low-compute, high-efficiency modeling strategies that maintain performance under limited data and infrastructure constraints.
 
 <!-- ### Real-World Evidence & Causal Inference
 •	Led federated analyses across 10+ international healthcare databases (OHDSI/LEGEND-T2DM; >5 million patients) to evaluate sex differences in the comparative effectiveness and safety of second-line type 2 diabetes therapies.
