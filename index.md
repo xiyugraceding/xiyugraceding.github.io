@@ -14,8 +14,14 @@ I am also a co-founder of 未医智源, a Shanghai-based startup partnering with
 
 
 ## Research Themes
-
+### Bayesian & Multimodal Modeling
+Transfer learning frameworks and multimodal integration (imaging, biomarkers, clinical data) to improve prediction in small or underrepresented populations.
 ### Real-World Evidence & Causal Inference
+Federated analyses across 10+ international healthcare databases (>5M patients) and self-controlled case series models for social determinants of health.
+### Natural Language Processing in Healthcare
+Multitask learning for specialty referral triage, phenotype extraction, and parameter-efficient fine-tuning for study identification.
+
+<!-- ### Real-World Evidence & Causal Inference
 •	Led federated analyses across 10+ international healthcare databases (OHDSI/LEGEND-T2DM; >5 million patients) to evaluate sex differences in the comparative effectiveness and safety of second-line type 2 diabetes therapies.
 •	Developed self-controlled case series models to assess the impact of social determinants of health, addressing social bias in clinical systems.
 
@@ -24,8 +30,8 @@ I am also a co-founder of 未医智源, a Shanghai-based startup partnering with
 •	Developed sentiment extraction models and ACHD phenotype classifiers from clinical narratives.
 •	Applied parameter-efficient prototypical fine-tuning for immunotherapy study identification.
 
-### Bayesian hierarchical modeling
-•	Designed Bayesian transfer learning frameworks to improve prediction and causal estimation in small or underrepresented populations.
+### Bayesian & Multimodal Modeling
+Transfer learning frameworks and multimodal integration (imaging, biomarkers, clinical data) to improve prediction in small or underrepresented populations. -->
 
 <!-- -- using a self-control case series to study the impact of social deterimnants of health, by taking individuals as their own control.  the model is utliztize to tackle to problem that the absence of social issues document in the system is not equal to patients not experiencing the issues.  -->
 
@@ -46,10 +52,11 @@ the majority of my work has emphasize on the health equity, where we studies the
 3. BS, Biological Science, Nanjing University (2014-2018)
 
 ## Experiences
-1. Eli Liily, Advanced Intelligence - research intern
-2. CHIP, Boston Children's Hospital
-3. Dana-Farber
-3. 
+1. Research Intern, Advanced Intelligence, Eli Liily and Company
+2. Data Scientist, Computational Health Informatics Program, Boston Children's Hospital
+3. Research Assistant, Dana-Farber Cancer Institute
+4. Research Analyst, Global Health Research Center, Duke Kunshan University
+
 
 
 <!-- More about me:

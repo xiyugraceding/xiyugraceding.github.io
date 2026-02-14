@@ -21,7 +21,7 @@ title                    : "Xiyu Ding"
 title_separator          : "-"
 subtitle                 : "PhD Candidate in Biomedical Informatics"
 name                     : "Xiyu Ding"
-description              : "PhD candidate with experience in Bayesian hierarchical modeling, Natural Language Processing and multi-modal modeling techniques in biomedical sciences."
+description              : "PhD Researcher in Healthcare AI & Real-World Evidence at Johns Hopkins University"
 url                      : "https://xiyugraceding.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "xiyugraceding/xiyugraceding.github.io"
@@ -96,10 +96,13 @@ author:
       url: "https://github.com/xiyugraceding"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      # url: "https://scholar.google.com/citations?user=_cKtRSAAAAAJ&hl=en" # Add your Google Scholar profile if you have one
+      url: "https://scholar.google.com/citations?user=_cKtRSAAAAAJ&hl=en" # Add your Google Scholar profile if you have one
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
-      # url: "https://orcid.org/0000-0001-6852-2962" # Add your ORCID if you have one
+      url: "https://orcid.org/0000-0001-6852-2962" # Add your ORCID if you have one
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/files/Xiyu_Ding_CV.pdf"
 
 # Site Footer
 footer:
