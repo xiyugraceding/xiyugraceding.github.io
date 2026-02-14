@@ -14,7 +14,7 @@ I am also a co-founder of 未医智源, a Shanghai-based startup partnering with
 ## Research Themes
 ### Bayesian Hierarchical Transfer Learning
 Hierarchical transfer learning frameworks that borrow strength from large datasets to improve inference in small or underrepresented populations.
- - Developed global–local shrinkage priors for high-dimensional sparse settings and efficient rejection-sampling algorithms to enable scalable posterior inference in federated and clinical-genomic applications.
+ - Developed global–local shrinkage priors for high-dimensional sparse settings and efficient rejection-sampling algorithms to enable scalable posterior inference in federated and clinical and genetic applications.
 ### Real-World Evidence & Causal Inference
 - Conducting large-scale federated causal analyses across 10+ international healthcare databases (>5M patients) to evaluate sex difference in the effectiveness and safety of second-line T2D agents.
 - Quantify the impact of social determinants of health on diabetes management.
