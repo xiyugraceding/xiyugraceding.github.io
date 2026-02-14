@@ -6,20 +6,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Biomedical Informatics and Data Science at Johns Hopkins University, with over seven years of experience developing AI and machine learning methods for healthcare. My work sits at the intersection of causal inference, natural language processing, and multimodal modeling, with a focus on health equity and real-world clinical impact.
+I am a PhD candidate in Biomedical Informatics and Data Science at Johns Hopkins University, with over seven years of experience developing AI and machine learning methods for healthcare. My work spans bayesian modeling, federated analytics, natural language processing, and multimodal modeling, with a focus on health equity and real-world clinical impact.
 
-I am also a co-founder of 未医智源, a Shanghai-based startup partnering with Hunan Cancer Hospital and Fudan University to develop LLM- and agent-based systems for automated ICD-10 coding, clinical documentation improvement and analyses of survey data.
-
-<!-- Currently I'm also a co-founder of 未医智源 (a shanghai-based startup), partnering with Hunan Cancer Hospital, exploring LLM/agentic AI for auto ICD-10 code annotation. We are also partnering with Fudan University to improve the documentation and analyses of survey based data. -->
+I am also a co-founder of 未医智源, a Shanghai-based startup partnering with Hunan Cancer Hospital and Fudan University to develop LLM- and agent-based systems for automated ICD-10 coding, clinical documentation, and analyses of survey data.
 
 
 ## Research Themes
-### Bayesian & Multimodal Modeling
-Transfer learning frameworks and multimodal integration (imaging, biomarkers, clinical data) to improve prediction in small or underrepresented populations.
+### Bayesian Hierarchical Transfer Learning
+Hierarchical transfer learning frameworks that borrow strength from large datasets to improve inference in small or underrepresented populations.
+ - Developed global–local shrinkage priors for high-dimensional sparse settings and efficient rejection-sampling algorithms to enable scalable posterior inference in federated and clinical-genomic applications.
 ### Real-World Evidence & Causal Inference
-Federated analyses across 10+ international healthcare databases (>5M patients) and self-controlled case series models for social determinants of health.
+- Conducting large-scale federated causal analyses across 10+ international healthcare databases (>5M patients) to evaluate sex difference in the effectiveness and safety of second-line T2D agents.
+- Quantify the impact of social determinants of health on diabetes management.
 ### Natural Language Processing in Healthcare
-Multitask learning for specialty referral triage, phenotype extraction, and parameter-efficient fine-tuning for study identification.
+Specialty referral triage, phenotype extraction, sentiment classification, and parameter-efficient fine-tuning in resource-constrained healthcare settings.
+### Multimodal Models
+- Developing cross-attention architectures to integrate imaging, biomarkers, and clinical text for Alzheimer’s disease diagnosis.
+- Emphasis on low-compute, high-efficiency modeling strategies that maintain performance under limited data and infrastructure constraints.
 
 <!-- ### Real-World Evidence & Causal Inference
 •	Led federated analyses across 10+ international healthcare databases (OHDSI/LEGEND-T2DM; >5 million patients) to evaluate sex differences in the comparative effectiveness and safety of second-line type 2 diabetes therapies.
