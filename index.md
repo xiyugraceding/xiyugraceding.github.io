@@ -8,7 +8,7 @@ redirect_from:
 
 I am a PhD candidate in Biomedical Informatics and Data Science at Johns Hopkins University, with over seven years of experience developing AI and machine learning methods for healthcare. My work spans bayesian modeling, federated analytics, natural language processing, and multimodal modeling, with a focus on health equity and real-world clinical impact.
 
-I am also a co-founder of 未医智源, a Shanghai-based startup partnering with Hunan Cancer Hospital and Fudan University to develop LLM- and agent-based systems for automated ICD-10 coding, clinical documentation, and analyses of survey data.
+<!-- I am also a co-founder of 未医智源, a Shanghai-based startup partnering with Hunan Cancer Hospital and Fudan University to develop LLM- and agent-based systems for automated ICD-10 coding, clinical documentation, and analyses of survey data. -->
 
 
 ## Research Themes
