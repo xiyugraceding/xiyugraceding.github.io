@@ -2,6 +2,7 @@
 layout: single
 title: "Research"
 permalink: /research/
+published: false
 author_profile: true
 toc: true
 toc_label: "Research Areas"

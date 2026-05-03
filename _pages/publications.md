@@ -2,6 +2,7 @@
 layout: single
 title: "Publications"
 permalink: /publications/
+published: false
 author_profile: true
 toc: true
 toc_label: "Publication Types"
